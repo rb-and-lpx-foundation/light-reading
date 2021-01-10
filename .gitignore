@@ -1,0 +1,13 @@
+# Latex
+*.aux
+*.bbl
+*.blg
+*.out
+*.log
+*.toc
+
+# Misc
+*.pdf
+
+# MacOS nonsense
+.DS_Store
