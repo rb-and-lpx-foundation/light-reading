@@ -11,3 +11,6 @@
 
 # MacOS nonsense
 .DS_Store
+
+# IDE generated files
+.idea/
