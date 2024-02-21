@@ -7,7 +7,7 @@
 *.toc
 
 # Misc
-*.pdf
+#*.pdf
 
 # MacOS nonsense
 .DS_Store
